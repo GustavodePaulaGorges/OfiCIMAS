@@ -41,6 +41,18 @@
     padding: 1em;
 }
 
+.map{
+    width : 40em;
+    height: 30em;
+    outline: 1px solid slategray;
+}
+
+.mapContainer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
 body{
     background-color: #fffcf9;
     padding-left: 10%;
