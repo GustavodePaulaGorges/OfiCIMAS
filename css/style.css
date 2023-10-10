@@ -52,7 +52,28 @@
     display: flex;
     justify-content: center;
 }
-
+.Bem_vindo{
+    background-color: rgb(255, 87, 87);
+    text-align: center;
+    font-size: 2em;
+    
+}
+.subtitulo{
+    font-size: x-large;
+    text-align: center;
+}
+.descricao{
+    text-align: left;
+    width: 50%;
+    font-size: larger;
+    color: #000;
+    display: flex;
+}
+.descricao_foto{
+    display: flex;
+    width: 50%;
+    align-content:right ;
+}
 body{
     background-color: #fffcf9;
     padding-left: 10%;
